@@ -1,0 +1,12 @@
+﻿{
+  "NumberOfSpots": 10,
+  "SpotCapacity": {
+    "Car": 1,
+    "MC": 2
+  },
+  "Prices": {
+    "Car": 20,
+    "MC": 10
+  },
+  "FreeMinutes": 10
+}
