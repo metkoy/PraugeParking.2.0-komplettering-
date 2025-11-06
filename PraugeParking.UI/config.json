@@ -1,5 +1,5 @@
 ﻿{
-  "NumberOfSpots": 10,
+  "NumberOfSpots": 100,
   "SpotCapacity": {
     "Car": 1,
     "MC": 2
