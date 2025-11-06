@@ -1,4 +1,5 @@
 ﻿using System.Text.Json;
+using PragueParking.Core;
 
 namespace PragueParking.DataAccess
 {

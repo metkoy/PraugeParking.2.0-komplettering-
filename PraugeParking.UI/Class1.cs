@@ -7,8 +7,7 @@
 }
 
 
-using PragueParking.Core.Models;
-using PragueParking.Core.Services;
+using PragueParking.Core;
 using PragueParking.DataAccess;
 using Spectre.Console;
 

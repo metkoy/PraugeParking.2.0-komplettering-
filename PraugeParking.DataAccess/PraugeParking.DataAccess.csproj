@@ -6,4 +6,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Spectre.Console" Version="0.53.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PraugeParking.Core\PraugeParking.Core.csproj" />
+  </ItemGroup>
+
 </Project>

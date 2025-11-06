@@ -1,6 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using PragueParking.Core.Models;
-using PragueParking.Core.Services;
+using PragueParking.Core;
 
 namespace PragueParking.Tests
 {
