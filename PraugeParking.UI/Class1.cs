@@ -1,4 +1,9 @@
-﻿namespace PraugeParking.UI
+﻿using PragueParking.Core;
+using PragueParking.DataAccess;
+using Spectre.Console;
+
+
+namespace PraugeParking.UI
 {
     public class Class1
     {
@@ -7,9 +12,7 @@
 }
 
 
-using PragueParking.Core;
-using PragueParking.DataAccess;
-using Spectre.Console;
+
 
 string configPath = "config.json";
 string dataPath = "garage.json";
